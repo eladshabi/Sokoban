@@ -1,0 +1,6 @@
+/view/
+/boot/
+/controller/
+/hibernate.cfg.out.xml
+/hibernate.cfg.xml
+/model/
